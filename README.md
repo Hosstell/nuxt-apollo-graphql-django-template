@@ -1,2 +1,2 @@
-# server-application-programming
-Проект по дисциплине "Программирование серверных приложений"
+Nuxt + Apollo + GraphQL + Django
+Fast start =)

@@ -1,2 +1,2 @@
-Nuxt + Apollo + GraphQL + Django
+Nuxt + Apollo + GraphQL + Django  
 Fast start =)
